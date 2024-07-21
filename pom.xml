@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-first</module>
+        <module>spring-Ioc-spring6xml</module>
     </modules>
 
     <properties>
